@@ -34,3 +34,23 @@ and then forces a reboot for a **fresh boot** experience.
 ## 👨‍💻 Author
 Developed by **Stephen Gill**  
 Crafted to demonstrate professional scripting practices and reproducibility.
+
+---
+
+## 💖 Support / Donate
+
+If you find this project helpful, you can support ongoing work — thank you!
+
+<p align="center">
+	<img src="qr-paypal.png" alt="PayPal QR code" width="180" style="margin:8px;">
+	<img src="qr-venmo.png" alt="Venmo QR code" width="180" style="margin:8px;">
+</p>
+
+**Scan to donate:**
+
+- PayPal: [![Donate via PayPal](https://img.shields.io/badge/PayPal-Donate-009cde?logo=paypal&logoColor=white)](https://paypal.me/gillsystems)
+- Venmo (US/mobile): [![Donate via Venmo](https://img.shields.io/badge/Venmo-Donate-3d95ce?logo=venmo&logoColor=white)](https://venmo.com/Stephen-Gill-007)
+
+Short links:
+- https://paypal.me/gillsystems
+- https://venmo.com/Stephen-Gill-007
