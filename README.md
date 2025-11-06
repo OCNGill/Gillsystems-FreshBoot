@@ -54,7 +54,7 @@ If you find this project helpful, you can support ongoing work — thank you!
 
 
 <p align="center">
-	<img src="Gillsystems_logo_with_donation_qrcodes.png" alt="Gillsystems logo with QR codes and icons" width="600" />
+		<img src="Gillsystems_logo_with_donation_qrcodes.png" alt="Gillsystems logo with QR codes and icons" width="720" />
 </p>
 
 <p align="center">
